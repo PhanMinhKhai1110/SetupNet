@@ -5,12 +5,6 @@
         "sfx_path": "...",
         "mods_path": "..."
     },
-    "tên_khách_hàng": {
-        "password": "mật_khẩu",
-        "role": "client",
-        "sfx_path": "...",
-        "mods_path": "..."
-    },
     "pmk": {
         "password": "1",
         "role": "client",
