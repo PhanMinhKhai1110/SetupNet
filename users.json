@@ -1,14 +1,14 @@
 {
     "admin": {
-        "password": "pmk",
-        "role": "admin"
+        "password": "123456",
+        "role": "admin",
+        "sfx_path": "E:\\Cybersync Onlines\\Grand Theft Auto V Epic\\GTAV\\x64\\audio\\sfx",
+        "mods_path": "E:\\Cybersync Onlines\\GTA5VN\\GTA5VN.app"
     },
-    "ngmods": {
-        "password": "123",
-        "role": "client"
-    },
-    "nguoimua01": {
-        "password": "matkhaucuakhach",
-        "role": "client"
+    "khach01": {
+        "password": "abcdef",
+        "role": "client",
+        "sfx_path": "C:\\Program Files\\Epic Games\\GTAV\\x64\\audio\\sfx",
+        "mods_path": "C:\\GTA5VN\\GTA5VN.app"
     }
 }
