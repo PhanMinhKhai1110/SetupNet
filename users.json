@@ -1,14 +1,14 @@
 {
     "admin": {
-        "password": "pmk",
+        "password": "123456",
         "role": "admin",
-        "sfx_path": "a",
-        "mods_path": "b"
+        "sfx_path": "...",
+        "mods_path": "..."
     },
-    "khach01": {
-        "password": "abcdef",
+    "tên_khách_hàng": {
+        "password": "mật_khẩu",
         "role": "client",
-        "sfx_path": "C:\\Program Files\\Epic Games\\GTAV\\x64\\audio\\sfx",
-        "mods_path": "C:\\GTA5VN\\GTA5VN.app"
+        "sfx_path": "...",
+        "mods_path": "..."
     }
 }
