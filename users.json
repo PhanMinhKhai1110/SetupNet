@@ -10,5 +10,11 @@
         "role": "client",
         "sfx_path": "...",
         "mods_path": "..."
+    },
+    "pmk": {
+        "password": "1",
+        "role": "client",
+        "sfx_path": "E:\\Cybersync Onlines\\Grand Theft Auto V Epic\\GTAV\\x64\\audio\\sfx",
+        "mods_path": "2"
     }
 }
