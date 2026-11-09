@@ -28,5 +28,11 @@
         "role": "client",
         "sfx_path": "a",
         "mods_path": "d"
+    },
+    "1111": {
+        "password": "111",
+        "role": "client",
+        "sfx_path": "D:\\SteamLibrary\\steamapps\\common\\Grand Theft Auto V\\x64\\audio\\sfx",
+        "mods_path": "C:\\Users\\Administrator\\AppData\\Local\\FiveM\\FiveM.app"
     }
 }
