@@ -2,8 +2,8 @@
     "admin": {
         "password": "123456",
         "role": "admin",
-        "sfx_path": "E:\\Cybersync Onlines\\Grand Theft Auto V Epic\\GTAV\\x64\\audio\\sfx",
-        "mods_path": "E:\\Cybersync Onlines\\GTA5VN\\GTA5VN.app"
+        "sfx_path": "a",
+        "mods_path": "b"
     },
     "khach01": {
         "password": "abcdef",
