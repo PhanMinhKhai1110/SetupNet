@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "pmk",
+        "role": "admin"
+    },
+    "ngmods": {
+        "password": "123",
+        "role": "client"
+    },
+    "nguoimua01": {
+        "password": "matkhaucuakhach",
+        "role": "client"
+    }
+}
