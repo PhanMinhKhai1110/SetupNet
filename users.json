@@ -1,6 +1,6 @@
 {
     "admin": {
-        "password": "123456",
+        "password": "pmk",
         "role": "admin",
         "sfx_path": "a",
         "mods_path": "b"
