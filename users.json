@@ -16,5 +16,11 @@
         "role": "client",
         "sfx_path": "2",
         "mods_path": "4"
+    },
+    "a": {
+        "password": "d",
+        "role": "client",
+        "sfx_path": "ăd Theft Auto V\\x64\\audio\\sfx",
+        "mods_path": "d"
     }
 }
