@@ -44,7 +44,7 @@
     "1212": {
         "password": "12",
         "role": "client",
-        "sfx_path": "aaa Theft Auto V\\x64\\audio\\sfx",
-        "mods_path": "222"
+        "sfx_path": "222",
+        "mods_path": "333"
     }
 }
