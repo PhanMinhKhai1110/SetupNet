@@ -52,5 +52,11 @@
         "role": "client",
         "sfx_path": "2",
         "mods_path": "3"
+    },
+    "32": {
+        "password": "1",
+        "role": "client",
+        "sfx_path": "ddd",
+        "mods_path": "333"
     }
 }
