@@ -58,5 +58,11 @@
         "role": "client",
         "sfx_path": "ddd",
         "mods_path": "333"
+    },
+    "3": {
+        "password": "3",
+        "role": "client",
+        "sfx_path": "2",
+        "mods_path": "E:\\Cybersync 2"
     }
 }
