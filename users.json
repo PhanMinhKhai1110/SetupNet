@@ -50,7 +50,7 @@
     "20": {
         "password": "1",
         "role": "client",
-        "sfx_path": "sfx",
-        "mods_path": "mods"
+        "sfx_path": "2",
+        "mods_path": "3"
     }
 }
